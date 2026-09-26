@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+output/
+*.csv
+*.xlsx
+!sample_data/*.csv
+!sample_data/*.xlsx
+*.db
+*.sqlite3
+data/
